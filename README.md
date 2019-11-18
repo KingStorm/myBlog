@@ -1,0 +1,2 @@
+# myBlog
+open blog
